@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  gitdemo
 //
-//  Created by 古佰塘2 on 15/6/2.
+//  Created by 古佰塘22222 on 15/6/2.
 //  Copyright (c) 2015年 tzb. All rights reserved.
 //
 
